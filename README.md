@@ -6,4 +6,4 @@
 - 💬 Ask me about collaborating
 - 📫 How to reach me: Discord: EnderSlain
 - 😄 Pronouns: He/Him
-- (https://github-readme-stats.vercel.app/api/top-langs/?username=EnderSlain456&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderSlain456&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

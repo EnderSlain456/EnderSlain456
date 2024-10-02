@@ -15,7 +15,7 @@
 
 
 ## Most Used Languages
- ![](https://github.com/EnderSlain456/github-readme/blob/master/api/top-langs.js/?username=EnderSlain456&theme=shadow_purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderSlain456&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="left">Socials:</h3>
 <p align="left">

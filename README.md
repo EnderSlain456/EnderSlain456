@@ -14,8 +14,11 @@
 
 
 
-## Github Stats
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderSlain456&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![EnderSlain's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnderSlain456&show_icons=true&theme=radical)
+## Most Languages
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderSlain456&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<h3 aling="left"> GitHub Stats:</h3>
+![EnderSlain's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnderSlain456&show_icons=true&theme=radical)
 
 <h3 align="left">Socials:</h3>
 <p align="left">

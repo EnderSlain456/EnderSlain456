@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm EnderSlain456</h1>
 <h3 align="center">I am a Full Stack Developer, Web and Software.</h3>
 
-- 🔭 I’m currently working on [NoaxVM](https://github.com/EnderSlain456/NoaxVM)
+- 🔭 I’m currently working on [NoaxVM](https://github.com/EnderSlain456/NoaxVM) & [Proxima](https://github.com/EnderSlain456/Proxima)
 
 - 🌱 I’m currently learning **Rust, GO and C++**
 
